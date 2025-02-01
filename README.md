@@ -33,6 +33,7 @@
 | ------- |
 | [0078-subsets](https://github.com/anshi0/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshi0/leetcode/tree/master/0136-single-number) |
+| [3429-special-array-i](https://github.com/anshi0/leetcode/tree/master/3429-special-array-i) |
 ## Backtracking
 |  |
 | ------- |
