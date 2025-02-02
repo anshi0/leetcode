@@ -7,7 +7,6 @@ public:
         else if(dividend <= 0 && divisor > 0) sign = false;
         long long int n = abs((long)dividend);
         long long int d =  abs((long)divisor);
-        //divisor = abs(divisor);
         long long quotient = 0;
         while(n>=d){
             int cnt = 0;
