@@ -1,21 +1,24 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if(n<=1) return 0;
-        vector<int> prime(n, 1);
-        prime[0]= prime[1] = 0;
-        //for (int i = 2; i < n; i++) prime[i] = 1;
-        for(int i = 2; i*i<n; i++){
-            if(prime[i] == 1){
-                for(int j = i*i; j<n; j = j+i) prime[j] = 0;
+        if (n <= 1) return 0; // Handle edge case
+
+        vector<bool> prime(n, true); // Use bool instead of int (less memory)
+        prime[0] = prime[1] = false; // 0 and 1 are not primes
+
+        for (int i = 2; i * i < n; i++) {
+            if (prime[i]) {
+                for (int j = i * i; j < n; j += i) {
+                    prime[j] = false; // Mark multiples as non-prime
+                }
             }
         }
+
         int cnt = 0;
-        for(int i = 2; i<n; i++){
-            cnt += prime[i];
-            prime[i] = cnt;
+        for (int i = 2; i < n; i++) {
+            if (prime[i]) cnt++; // Count primes directly
         }
-        return prime[n-1];
+
+        return cnt; // No extra lookup
     }
 };
-
