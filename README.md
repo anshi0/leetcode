@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshi0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -42,6 +43,7 @@
 | [0078-subsets](https://github.com/anshi0/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshi0/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anshi0/leetcode/tree/master/0204-count-primes) |
+| [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshi0/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anshi0/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshi0/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -79,5 +81,6 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
