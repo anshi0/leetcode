@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshi0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/anshi0/leetcode/tree/master/0020-valid-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
@@ -60,6 +61,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anshi0/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/anshi0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshi0/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
