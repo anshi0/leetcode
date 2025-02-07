@@ -1,5 +1,12 @@
+static auto init = []() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        return nullptr;
+    }();
+
 class Solution {
 public:
+    
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
         int n = queries.size();
         vector<int> result(n);
@@ -9,7 +16,8 @@ public:
             if (ballMap.find(ball) != ballMap.end()) {
                 int prevColor = ballMap[ball];
                 colorMap[prevColor]--;
-                if (colorMap[prevColor] == 0) colorMap.erase(prevColor);
+                if (colorMap[prevColor] == 0)
+                    colorMap.erase(prevColor);
             }
             ballMap[ball] = color;
             colorMap[color]++;
