@@ -48,6 +48,7 @@
 | [0204-count-primes](https://github.com/anshi0/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/anshi0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshi0/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshi0/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/anshi0/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/anshi0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshi0/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
@@ -116,5 +118,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anshi0/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
