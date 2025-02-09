@@ -9,6 +9,7 @@
 | [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/anshi0/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anshi0/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | [0050-powx-n](https://github.com/anshi0/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/anshi0/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anshi0/leetcode/tree/master/0231-power-of-two) |
+| [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshi0/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anshi0/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshi0/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/anshi0/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anshi0/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -104,6 +107,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
