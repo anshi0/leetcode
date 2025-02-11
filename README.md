@@ -91,6 +91,7 @@
 | [0496-next-greater-element-i](https://github.com/anshi0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshi0/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
@@ -100,6 +101,7 @@
 | [0155-min-stack](https://github.com/anshi0/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anshi0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshi0/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/anshi0/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -121,6 +123,7 @@
 | [0085-maximal-rectangle](https://github.com/anshi0/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/anshi0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshi0/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshi0/leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
