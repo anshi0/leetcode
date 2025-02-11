@@ -1,24 +1,23 @@
 class StockSpanner {
 public:
-    vector<int> arr;
-    vector<int> spans;  // Stores span values for each stock price
-
-    StockSpanner() {}
-
+vector<int> arr;
+    StockSpanner() {
+        
+    }
+    
     int next(int price) {
         arr.push_back(price);
-        int cnt = 1; // Start with 1 (current stock itself)
-
-        // Traverse backwards to calculate span
-        for (int i = arr.size() - 2; i >= 0; i -= spans[i]) {
-            if (arr[i] <= price) {
-                cnt += spans[i]; // Add previous span (jump over counted values)
-            } else {
-                break; // Stop when we find a larger price
-            }
+        int cnt = 1;
+        for(int i = arr.size()-2; i>=0; i--){
+            if(arr[i] <= price) cnt++;
+            else break;
         }
-
-        spans.push_back(cnt); // Store the computed span
         return cnt;
     }
 };
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner* obj = new StockSpanner();
+ * int param_1 = obj->next(price);
+ */
