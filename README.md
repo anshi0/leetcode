@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshi0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/anshi0/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/anshi0/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/anshi0/leetcode/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -107,6 +108,7 @@
 | [0155-min-stack](https://github.com/anshi0/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anshi0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshi0/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/anshi0/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/anshi0/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Queue
@@ -175,10 +177,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anshi0/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/anshi0/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anshi0/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/anshi0/leetcode/tree/master/0460-lfu-cache) |
 ## Sorting
 |  |
 | ------- |
