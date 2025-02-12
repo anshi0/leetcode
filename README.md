@@ -18,6 +18,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshi0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anshi0/leetcode/tree/master/0020-valid-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -94,6 +95,7 @@
 | [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
 ## Design
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anshi0/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
