@@ -68,6 +68,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anshi0/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshi0/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshi0/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/anshi0/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anshi0/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/anshi0/leetcode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshi0/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anshi0/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
@@ -157,6 +159,7 @@
 | [0239-sliding-window-maximum](https://github.com/anshi0/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2434-design-a-number-container-system](https://github.com/anshi0/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anshi0/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshi0/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
