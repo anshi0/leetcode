@@ -38,6 +38,7 @@
 | [0050-powx-n](https://github.com/anshi0/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/anshi0/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anshi0/leetcode/tree/master/0231-power-of-two) |
+| [1477-product-of-the-last-k-numbers](https://github.com/anshi0/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
@@ -69,6 +70,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshi0/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/anshi0/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshi0/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshi0/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anshi0/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -118,6 +120,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/anshi0/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/anshi0/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/anshi0/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/anshi0/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/anshi0/leetcode/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/anshi0/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +205,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/anshi0/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/anshi0/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshi0/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
