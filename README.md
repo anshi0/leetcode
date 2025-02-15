@@ -10,6 +10,7 @@
 | [0496-next-greater-element-i](https://github.com/anshi0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/anshi0/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1364-tuple-with-same-product](https://github.com/anshi0/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anshi0/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/anshi0/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshi0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anshi0/leetcode/tree/master/0020-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anshi0/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
@@ -30,6 +32,7 @@
 | [0239-sliding-window-maximum](https://github.com/anshi0/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/anshi0/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshi0/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anshi0/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshi0/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
