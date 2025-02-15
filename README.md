@@ -43,6 +43,7 @@
 | [0231-power-of-two](https://github.com/anshi0/leetcode/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anshi0/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/anshi0/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshi0/leetcode/tree/master/0078-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/anshi0/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
