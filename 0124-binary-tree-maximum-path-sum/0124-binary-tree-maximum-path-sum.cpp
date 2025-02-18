@@ -13,7 +13,7 @@ class Solution {
 public:
     int FindMaxPath(TreeNode* root, int &maxi){
         if(root == NULL) return 0;
-        int leftMax = max(0,FindMaxPath(root->left, maxi)); //dont let it go negative
+        int leftMax = max(0, FindMaxPath(root->left, maxi)); //dont let it go negative
         int rightMax = max(0, FindMaxPath(root->right, maxi));
         maxi = max(maxi, leftMax+rightMax+root->val);
         return max(leftMax, rightMax) + root->val;
