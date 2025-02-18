@@ -33,6 +33,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anshi0/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/anshi0/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -110,6 +111,7 @@
 | [0078-subsets](https://github.com/anshi0/leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/anshi0/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anshi0/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/anshi0/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anshi0/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
@@ -137,6 +139,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anshi0/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/anshi0/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/anshi0/leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -264,4 +267,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anshi0/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshi0/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/anshi0/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
