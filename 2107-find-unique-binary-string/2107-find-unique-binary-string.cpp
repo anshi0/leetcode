@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool permutation(map<string, int> &mpp, string &s, int n){
+    bool permutation(unordered_map<string, int> &mpp, string &s, int n){
         if(s.size() == n){
             if(mpp.find(s) == mpp.end()) return true;
             return false;
@@ -15,7 +15,7 @@ public:
         return false;
     }
     string findDifferentBinaryString(vector<string>& nums) {
-        map<string, int> mpp;
+        unordered_map<string, int> mpp;
         int size = nums.size();
         for(int i =0; i<nums.size(); i++){
             mpp[nums[i]]++;
