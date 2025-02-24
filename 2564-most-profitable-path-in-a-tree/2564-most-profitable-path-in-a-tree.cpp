@@ -1,53 +1,53 @@
+vector<int> adj[100000];
+int parent[100000], Bob[100000];
+
 class Solution {
 public:
+    void dfs(int i, int p) {
+        parent[i] = p;
+        for (int j : adj[i]) {
+            if (j == p) continue;
+            dfs(j, i);
+        }
+    }
+
+    int dfs_sum(int i, int dist, int p, vector<int>& amount) {
+        int alice= 0;
+
+        if (dist < Bob[i]) alice= amount[i];  // Alice gets full amount
+        else if (dist == Bob[i]) alice= amount[i] / 2;  // Split with Bob
+
+        bool isLeaf = 1;
+        int maxLeafSum = INT_MIN;
+
+        for (int j : adj[i]) {
+            if (j == p) continue;
+            isLeaf = 0;
+            maxLeafSum = max(maxLeafSum, dfs_sum(j, dist + 1, i, amount));
+        }
+
+        return alice+(isLeaf ? 0 : maxLeafSum);
+    }
+
     int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
-        int n = amount.size();
-        vector<vector<int>> graph(n);
-        
-        for (auto& edge : edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);
+        const int n = edges.size() + 1;
+
+        for (int i = 0; i < n; i++) adj[i].clear();
+
+        for (auto& e : edges) {
+            int u = e[0], v = e[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
-        vector<int> bobPath(n, -1);
-        vector<int> path;
-        
-        function<bool(int, int)> fillBobPath = [&](int node, int parent) {
-            if (node == 0) return true;
-            
-            for (int neighbor : graph[node]) {
-                if (neighbor != parent) {
-                    path.push_back(node);
-                    if (fillBobPath(neighbor, node)) return true;
-                    path.pop_back();
-                }
-            }
-            return false;
-        };
+        dfs(0, -1);
 
-        fillBobPath(bob, -1);
-        for (int i = 0; i < path.size(); i++) {
-            bobPath[path[i]] = i;
+        // Compute Bob's reach time
+        fill(Bob, Bob + n, INT_MAX);
+        for (int x = bob, move = 0; x != -1; x = parent[x]) {
+            Bob[x] = move++;
         }
 
-        function<int(int, int, int, int)> getAliceMaxScore = [&](int node, int parent, int currScore, int timestamp) {
-            if (bobPath[node] == -1 || bobPath[node] > timestamp) {
-                currScore += amount[node];
-            } else if (bobPath[node] == timestamp) {
-                currScore += amount[node] / 2;
-            }
-
-            if (graph[node].size() == 1 && node != 0) return currScore;
-
-            int maxScore = INT_MIN;
-            for (int neighbor : graph[node]) {
-                if (neighbor != parent) {
-                    maxScore = max(maxScore, getAliceMaxScore(neighbor, node, currScore, timestamp + 1));
-                }
-            }
-            return maxScore;
-        };
-
-        return getAliceMaxScore(0, -1, 0, 0);
+        return dfs_sum(0, 0, -1, amount);
     }
 };
