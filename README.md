@@ -110,6 +110,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/anshi0/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/anshi0/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anshi0/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/anshi0/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshi0/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshi0/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/anshi0/leetcode/tree/master/3429-special-array-i) |
@@ -276,6 +277,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshi0/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anshi0/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/anshi0/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshi0/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anshi0/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/anshi0/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,6 +321,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anshi0/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anshi0/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/anshi0/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -326,4 +330,8 @@
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anshi0/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/anshi0/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
