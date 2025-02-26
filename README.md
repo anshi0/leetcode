@@ -106,6 +106,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshi0/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anshi0/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anshi0/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anshi0/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshi0/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anshi0/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/anshi0/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -204,6 +205,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshi0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anshi0/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anshi0/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
 |  |
 | ------- |
