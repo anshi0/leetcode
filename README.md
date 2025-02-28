@@ -36,6 +36,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/anshi0/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshi0/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/anshi0/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/anshi0/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anshi0/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshi0/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshi0/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -207,6 +208,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshi0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anshi0/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshi0/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1170-shortest-common-supersequence](https://github.com/anshi0/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anshi0/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anshi0/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
