@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshi0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anshi0/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anshi0/leetcode/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/anshi0/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshi0/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshi0/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/anshi0/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshi0/leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/anshi0/leetcode/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/anshi0/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshi0/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anshi0/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -289,6 +291,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshi0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshi0/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshi0/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/anshi0/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshi0/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anshi0/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -305,6 +308,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshi0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshi0/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshi0/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/anshi0/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshi0/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshi0/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -322,6 +326,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshi0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshi0/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshi0/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/anshi0/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshi0/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anshi0/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
