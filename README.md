@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshi0/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/anshi0/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshi0/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshi0/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anshi0/leetcode/tree/master/0085-maximal-rectangle) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshi0/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/anshi0/leetcode/tree/master/0075-sort-colors) |
 | [2551-apply-operations-to-an-array](https://github.com/anshi0/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anshi0/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
@@ -264,6 +266,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshi0/leetcode/tree/master/0075-sort-colors) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshi0/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anshi0/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
